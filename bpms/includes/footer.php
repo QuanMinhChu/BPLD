@@ -28,7 +28,7 @@ while ($row=mysqli_fetch_array($ret)) {
                 <li><a href="index.php" class="py-2 d-block">Home</a></li>
                 <li><a href="about.php" class="py-2 d-block">About</a></li>
                 <li><a href="services.php" class="py-2 d-block">Services</a></li>
-                <li><a href="products.php" class="py-2 d-block">Sản phẩm</a></li>
+                <li><a href="products.php" class="py-2 d-block">Products</a></li>
                 <li><a href="admin/index.php" class="py-2 d-block">Admin</a></li>
                 <li><a href="contact.php" class="py-2 d-block">Contact</a></li>
               </ul>
