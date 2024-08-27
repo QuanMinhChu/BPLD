@@ -8,7 +8,7 @@
                 <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
                 
                 <!-- Thêm mục Sản phẩm -->
-                <li class="nav-item"><a href="products.php" class="nav-link">Sản phẩm</a></li>
+                <li class="nav-item"><a href="products.php" class="nav-link">Products</a></li>
                 
                 <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
                 <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
